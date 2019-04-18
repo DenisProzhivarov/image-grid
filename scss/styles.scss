@@ -1,0 +1,35 @@
+@import "normalize";
+@import "layout";
+
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 10px;
+	height: 100%;
+}
+
+body {
+	/* font-family: ''; */
+	font-size: 1.8rem;
+	line-height: 1.6;
+	color: #333;
+	min-height: 100%;
+}
+
+.ba-container {
+	width: 1200px;
+	text-align: center;
+	margin: 0 auto;
+	outline: 2px solid red;
+}
+
+.h1 {
+	text-align: left;
+}
+
+.marg {
+	margin-top: 14px;
+}
