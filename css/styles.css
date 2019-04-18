@@ -604,8 +604,7 @@ body {
 .ba-container {
   width: 1200px;
   text-align: center;
-  margin: 0 auto;
-  outline: 2px solid red; }
+  margin: 0 auto; }
 
 .h1 {
   text-align: left; }
