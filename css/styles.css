@@ -602,12 +602,10 @@ body {
   min-height: 100%; }
 
 .ba-container {
+  font-size: 0;
   width: 1200px;
-  text-align: center;
   margin: 0 auto; }
 
 .h1 {
-  text-align: left; }
-
-.marg {
-  margin-top: 14px; }
+  text-align: left;
+  font-size: 36px; }

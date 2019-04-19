@@ -20,16 +20,14 @@ body {
 }
 
 .ba-container {
+	font-size: 0;
 	width: 1200px;
-	text-align: center;
+	// text-align: center;
 	margin: 0 auto;
 	// outline: 2px solid red;
 }
 
 .h1 {
 	text-align: left;
-}
-
-.marg {
-	margin-top: 14px;
+	font-size: 36px;
 }
