@@ -17,13 +17,14 @@ body {
 	line-height: 1.6;
 	color: #333;
 	min-height: 100%;
+
 }
 
 .ba-container {
 	font-size: 0;
-	width: 1200px;
+	max-width: 1200px;
 	// text-align: center;
-	margin: 0 auto;
+	margin: 0 5%;
 	// outline: 2px solid red;
 }
 
